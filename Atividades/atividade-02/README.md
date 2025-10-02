@@ -1,2 +1,4 @@
 # atividade_02
-atividade 2 da disciplina de pdm-2
+atividade para testar os conceitos de agregação e composição 
+
+
